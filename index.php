@@ -49,6 +49,9 @@
 				</tr>
 			</table>
 
+			<img src="images/animal-eats-sarah.jpg" alt="muppet animal">
+
+			<p>This is a link to <a href="http://google.com" target="_blank"</p>
 
 		</main>
 	</body>
